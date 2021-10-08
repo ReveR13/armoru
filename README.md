@@ -1,2 +1,6 @@
 # armoru
-Plugins that reworks the armor system for Counter-Strike Source
+Plugins that changes how the armor system works for Counter-Strike Source
+
+For Personal use only.
+
+
