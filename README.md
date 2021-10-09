@@ -9,4 +9,5 @@ For Personal use only.
 
 Download the latest version, extract to sourcepyton/plugins/
 Add the following line to autoexec.cfg file
-sp plugin load armoru
+
+"sp plugin load armoru"
